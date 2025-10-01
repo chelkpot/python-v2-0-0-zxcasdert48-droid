@@ -1,6 +1,6 @@
 # tasks/task5.py
 
-def main():
+def solve():
     # Считываем заклинание с клавиатуры
     spell = input("Введите заклинание: ")
     
